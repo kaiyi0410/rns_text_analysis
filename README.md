@@ -16,13 +16,13 @@
 
 
 ## CSV files
-**rns_final_metrics.csv**
-Combined dataset of the metrics we calculated 
-Abbreviations: 
+**rns_final_metrics.csv**  
+Combined dataset of the metrics we calculated.   
+Abbreviations:   
   - ret20: 20-day returns
   - MSL: mean sentence length
   - MWL: mean word length
   - GFI: Gunning-Fog index
 
-**ind50.csv** 
+**ind50.csv**   
 Subset of 50 most frequently-appearing companies in our subset with their economic sector label 
